@@ -141,9 +141,7 @@ jupyter notebook python/Customer_Shopping_Behavior_Analysis.ipynb
 **Power BI:**
 - Open `power_bi/customer_behavior_dashboard.pbix` in Power BI Desktop.
 - Refresh the data source if prompted.
-
-> ⚠️ **Security note:** the notebook currently contains hardcoded database credentials in one of the connection cells. Before pushing further updates, replace these with environment variables (e.g. a `.env` file loaded via `python-dotenv`) and make sure `.env` is listed in `.gitignore` — never commit real credentials, even placeholder-looking ones, to a public repo.
-
+- 
 ---
 
 ## 📁 Dataset Info
@@ -151,12 +149,6 @@ jupyter notebook python/Customer_Shopping_Behavior_Analysis.ipynb
 - **File:** `dataset/customer_shopping_behavior.csv`
 - **Records:** 3,900 customers
 - **Columns (18):** Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount (USD), Location, Size, Color, Season, Review Rating, Subscription Status, Shipping Type, Discount Applied, Promo Code Used, Previous Purchases, Payment Method, Frequency of Purchases
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
 
