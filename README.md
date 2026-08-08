@@ -34,13 +34,6 @@ Full business problem definition and findings are documented in [`aboutProject/`
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
 | Layer | Tool | Purpose |
 |---|---|---|
 | Data Cleaning & EDA | Python (Pandas) in Jupyter Notebook | Handle nulls, fix data types, feature engineering |
@@ -51,6 +44,8 @@ Full business problem definition and findings are documented in [`aboutProject/`
 ---
 
 ## 📂 Project Structure
+
+```text
 Data-Analysis-Python-SQL-PowerBI/
 │
 ├── aboutProject/
@@ -75,8 +70,7 @@ Data-Analysis-Python-SQL-PowerBI/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
----
+```
 
 ## 🔄 Workflow
 
