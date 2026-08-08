@@ -28,8 +28,6 @@ A retail business wants to understand its customers better in order to improve m
 - Are loyal / repeat customers more likely to subscribe, and how should they be targeted differently from new customers?
 - How does shipping type and purchase frequency relate to customer value?
 
-Full business problem definition and findings are documented in [`aboutProject/`](aboutProject/).
-
 ---
 
 ## 🧰 Tech Stack
@@ -106,14 +104,6 @@ Key business questions answered in SQL (`sql/customer_shopping_behavior.sql`):
 > - Loyal customers (5+ previous purchases) contribute **X%** of total revenue despite being only **Y%** of the customer base.
 > - Subscribed customers spend **$Z more on average** than non-subscribed customers.
 > - The **Clothing** category leads in both purchase volume and average rating.
-
-Add a screenshot of your Power BI dashboard here:
-
-```markdown
-![Dashboard Preview](docs/architecturee.png)
-```
-
-(Export a `.png` of your `.pbix` dashboard's main page and add it to `assets/` to complete this section.)
 
 ---
 
